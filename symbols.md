@@ -6,6 +6,28 @@ There is a set of symbols, a floating sphere, and some text on the wall.
 The text reads,
 > A sphere, and some symbols. Press the one they share.
 
-These are they symbols:
-![If you can't view the image, the answer is mercury](https://media.wired.com/photos/59336e3768cb3b3dc4098d4f/master/w_297,c_limit/Dalton_atomic_symbols.jpg)
-This is the sphere:
+These are they symbols:  
+![If you can't view the image, the answer is mercury](https://media.wired.com/photos/59336e3768cb3b3dc4098d4f/master/w_297,c_limit/Dalton_atomic_symbols.jpg)  
+This is the sphere:  
+![A stone sphere](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/mercury.jpg?raw=true)
+
+Looking closer at the symbols, you see that you can press one of the symbols.
+
+* [Hydrogen]()
+* [Atote]()
+* [Oxygen]()
+* [Phosphorus]()
+* [Sulfur]()
+* [Magnesia]()
+* [Lime]()
+* [Soda]()
+* [Potash]()
+* [Strontian]()
+* [Barvtes]()
+* [Iron]()
+* [Zinc]()
+* [Copper]()
+* [Lead]()
+* [Silver]()
+* [Platina]()
+* [Mercury]()
