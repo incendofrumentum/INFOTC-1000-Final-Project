@@ -1,3 +1,5 @@
+### The Maze
+
 As you walk towards the door on the right, it slides into the ceiling.  
 As soon as you walk through the door, it slams down behind you.
 
