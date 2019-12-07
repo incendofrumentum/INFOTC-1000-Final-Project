@@ -6,5 +6,5 @@ As you are coming to terms with your new enviroment, a voice comes booming from 
 >All you need to do is move through the different rooms and solve the puzzles within them. Do this, and you will be out of here in no time.
 >Simply choose one of the two doors in this room, and you may begin. Good luck.
 
-* _Open the door on the left_
-* _Open the door on the right_
+* [Approach the door on the left](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/symbols.md)
+* [Approach the door on the right](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/maze.md)
