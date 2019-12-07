@@ -30,4 +30,4 @@ Looking closer at the symbols, you see that you can press one of the symbols.
 * [Lead](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/wrongsymbol.md)
 * [Silver](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/wrongsymbol.md)
 * [Platina](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/wrongsymbol.md)
-* [Mercury]()
+* [Mercury](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/finalpuzzle.md)
