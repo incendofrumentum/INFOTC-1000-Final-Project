@@ -5,5 +5,5 @@ Looking around the room, you see that you have entered a hallway at the end of w
 
 (Side note: This puzzle is a maze. If you just want to skip to the end of the maze, click [here]())
 
-* [Left](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/mazelost.md)
-* [Right](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/maze1.md)
+* [Left](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/maze1.md)
+* [Right](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/mazelost.md)
