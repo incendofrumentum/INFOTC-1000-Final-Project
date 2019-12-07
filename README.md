@@ -14,4 +14,4 @@ Due to this, some of the requirements will only be fullfilled in certain paths. 
 I would ask that you try to see everything before grading this project.
 Thank you.
 
-_Link to opening room_
+[Begin the game.](https://github.com/incendofrumentum/INFOTC-1000-Final-Project/blob/master/opeiningroom.md)
