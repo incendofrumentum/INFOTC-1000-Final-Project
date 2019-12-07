@@ -1,3 +1,5 @@
+### Symbols Puzzle
+
 You approach the door on the left and it slides up silently, revealing the next room.  
 You walk through, and as soon as you get through, the door slams down behind you. You try it, but it does not open.
 
